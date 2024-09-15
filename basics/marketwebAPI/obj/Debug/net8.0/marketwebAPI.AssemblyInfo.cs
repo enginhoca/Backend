@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("marketwebAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c490e2462f96ab143d1179197e7c20d469060b9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d8de96149df91829821dcd5cebe9da6e82b4d9d0")]
 [assembly: System.Reflection.AssemblyProductAttribute("marketwebAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("marketwebAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
