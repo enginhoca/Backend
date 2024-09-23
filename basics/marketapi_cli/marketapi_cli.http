@@ -1,6 +1,0 @@
-@marketapi_cli_HostAddress = http://localhost:5189
-
-GET {{marketapi_cli_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###

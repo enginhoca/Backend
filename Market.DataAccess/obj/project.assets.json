@@ -1,0 +1,116 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "Market.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Market.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Market.Common.dll": {}
+        }
+      },
+      "Market.Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Market.Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Market.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Market.Common/1.0.0": {
+      "type": "project",
+      "path": "../Market.Common/Market.Common.csproj",
+      "msbuildProject": "../Market.Common/Market.Common.csproj"
+    },
+    "Market.Entities/1.0.0": {
+      "type": "project",
+      "path": "../Market.Entities/Market.Entities.csproj",
+      "msbuildProject": "../Market.Entities/Market.Entities.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "Market.Common >= 1.0.0",
+      "Market.Entities >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\mirac\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "G:\\Github\\MarketProject\\Backend\\Market.DataAccess\\Market.DataAccess.csproj",
+      "projectName": "Market.DataAccess",
+      "projectPath": "G:\\Github\\MarketProject\\Backend\\Market.DataAccess\\Market.DataAccess.csproj",
+      "packagesPath": "C:\\Users\\mirac\\.nuget\\packages\\",
+      "outputPath": "G:\\Github\\MarketProject\\Backend\\Market.DataAccess\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\mirac\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "G:\\Github\\MarketProject\\Backend\\Market.Common\\Market.Common.csproj": {
+              "projectPath": "G:\\Github\\MarketProject\\Backend\\Market.Common\\Market.Common.csproj"
+            },
+            "G:\\Github\\MarketProject\\Backend\\Market.Entities\\Market.Entities.csproj": {
+              "projectPath": "G:\\Github\\MarketProject\\Backend\\Market.Entities\\Market.Entities.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

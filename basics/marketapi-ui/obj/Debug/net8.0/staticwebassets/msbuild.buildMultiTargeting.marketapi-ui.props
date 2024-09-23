@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\marketapi-ui.props" />
-</Project>

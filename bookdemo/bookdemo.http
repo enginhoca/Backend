@@ -1,6 +1,0 @@
-@bookdemo_HostAddress = http://localhost:5278
-
-
-Accept: application/json
-
-###
