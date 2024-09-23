@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Market.DataAccess")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bf0adfe97711848e0c9095d0f7763872da0e4ec8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2cddb446dd3aa67ad22757168d162a45a25bbe27")]
 [assembly: System.Reflection.AssemblyProductAttribute("Market.DataAccess")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Market.DataAccess")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
