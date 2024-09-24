@@ -7,7 +7,7 @@ using Market.Service;
 
 namespace Market.DataAccess
 {
-    public interface IRepositories<T> where T : class 
+    public interface IRepositories<T> where T : class
     {
         Task<T> GetByIdAsync(int id);
         Task<IEnumerable<T>> GetAllAsync();

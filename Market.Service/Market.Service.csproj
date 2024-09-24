@@ -3,6 +3,7 @@
   <ItemGroup>
     <ProjectReference Include="..\Market.Entities\Market.Entities.csproj" />
     <ProjectReference Include="..\Market.DataAccess\Market.DataAccess.csproj" />
+
   </ItemGroup>
 
   <PropertyGroup>
@@ -11,4 +12,7 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+    
+
+  
 </Project>
