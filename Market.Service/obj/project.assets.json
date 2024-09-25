@@ -987,22 +987,12 @@
           }
         }
       },
-      "Market.Common/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "compile": {
-          "bin/placeholder/Market.Common.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Market.Common.dll": {}
-        }
-      },
       "Market.DataAccess/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
-          "Market.Common": "1.0.0",
           "Market.Entities": "1.0.0",
+          "Market.Shared": "1.0.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.8"
         },
         "compile": {
@@ -1020,6 +1010,16 @@
         },
         "runtime": {
           "bin/placeholder/Market.Entities.dll": {}
+        }
+      },
+      "Market.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Market.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Market.Shared.dll": {}
         }
       }
     }
@@ -2776,11 +2776,6 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "Market.Common/1.0.0": {
-      "type": "project",
-      "path": "../Market.Common/Market.Common.csproj",
-      "msbuildProject": "../Market.Common/Market.Common.csproj"
-    },
     "Market.DataAccess/1.0.0": {
       "type": "project",
       "path": "../Market.DataAccess/Market.DataAccess.csproj",
@@ -2790,6 +2785,11 @@
       "type": "project",
       "path": "../Market.Entities/Market.Entities.csproj",
       "msbuildProject": "../Market.Entities/Market.Entities.csproj"
+    },
+    "Market.Shared/1.0.0": {
+      "type": "project",
+      "path": "../Market.Common/Market.Shared.csproj",
+      "msbuildProject": "../Market.Common/Market.Shared.csproj"
     }
   },
   "projectFileDependencyGroups": {

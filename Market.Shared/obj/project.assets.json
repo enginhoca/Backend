@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Github\\MarketProject\\Backend\\Market.Common\\Market.Common.csproj",
-      "projectName": "Market.Common",
-      "projectPath": "G:\\Github\\MarketProject\\Backend\\Market.Common\\Market.Common.csproj",
+      "projectUniqueName": "G:\\Github\\MarketProject\\Backend\\Market.Common\\Market.Shared.csproj",
+      "projectName": "Market.Shared",
+      "projectPath": "G:\\Github\\MarketProject\\Backend\\Market.Common\\Market.Shared.csproj",
       "packagesPath": "C:\\Users\\mirac\\.nuget\\packages\\",
       "outputPath": "G:\\Github\\MarketProject\\Backend\\Market.Common\\obj\\",
       "projectStyle": "PackageReference",

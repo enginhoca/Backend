@@ -19,8 +19,8 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Market.Common\Market.Shared.csproj" />
     <ProjectReference Include="..\Market.Service\Market.Service.csproj" />
-    <ProjectReference Include="..\Market.Common\Market.Common.csproj" />
   </ItemGroup>
 
 </Project>

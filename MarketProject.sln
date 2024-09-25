@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Market.Common", "Market.Common\Market.Common.csproj", "{B80720C7-3D46-4F54-96AD-4309B69EF998}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Market.Shared", "Market.Common\Market.Shared.csproj", "{B80720C7-3D46-4F54-96AD-4309B69EF998}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Market.Entities", "Market.Entities\Market.Entities.csproj", "{5C5E87F4-8C64-4F8E-84BB-AA45664E8DB8}"
 EndProject
@@ -17,9 +17,6 @@ Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{B80720C7-3D46-4F54-96AD-4309B69EF998}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -42,5 +39,8 @@ Global
 		{CA7BEAF0-A00A-4532-8896-98A8092D24F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA7BEAF0-A00A-4532-8896-98A8092D24F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA7BEAF0-A00A-4532-8896-98A8092D24F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
 	EndGlobalSection
 EndGlobal

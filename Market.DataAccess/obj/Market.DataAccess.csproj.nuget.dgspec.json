@@ -4,12 +4,12 @@
     "G:\\Github\\MarketProject\\Backend\\Market.DataAccess\\Market.DataAccess.csproj": {}
   },
   "projects": {
-    "G:\\Github\\MarketProject\\Backend\\Market.Common\\Market.Common.csproj": {
+    "G:\\Github\\MarketProject\\Backend\\Market.Common\\Market.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Github\\MarketProject\\Backend\\Market.Common\\Market.Common.csproj",
-        "projectName": "Market.Common",
-        "projectPath": "G:\\Github\\MarketProject\\Backend\\Market.Common\\Market.Common.csproj",
+        "projectUniqueName": "G:\\Github\\MarketProject\\Backend\\Market.Common\\Market.Shared.csproj",
+        "projectName": "Market.Shared",
+        "projectPath": "G:\\Github\\MarketProject\\Backend\\Market.Common\\Market.Shared.csproj",
         "packagesPath": "C:\\Users\\mirac\\.nuget\\packages\\",
         "outputPath": "G:\\Github\\MarketProject\\Backend\\Market.Common\\obj\\",
         "projectStyle": "PackageReference",
@@ -90,8 +90,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "G:\\Github\\MarketProject\\Backend\\Market.Common\\Market.Common.csproj": {
-                "projectPath": "G:\\Github\\MarketProject\\Backend\\Market.Common\\Market.Common.csproj"
+              "G:\\Github\\MarketProject\\Backend\\Market.Common\\Market.Shared.csproj": {
+                "projectPath": "G:\\Github\\MarketProject\\Backend\\Market.Common\\Market.Shared.csproj"
               },
               "G:\\Github\\MarketProject\\Backend\\Market.Entities\\Market.Entities.csproj": {
                 "projectPath": "G:\\Github\\MarketProject\\Backend\\Market.Entities\\Market.Entities.csproj"
