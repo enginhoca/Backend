@@ -1,0 +1,12 @@
+G:\Github\MarketProject\Backend\TechZone\TechZone.Entities\bin\Debug\net8.0\TechZone.Entities.deps.json
+G:\Github\MarketProject\Backend\TechZone\TechZone.Entities\bin\Debug\net8.0\TechZone.Entities.dll
+G:\Github\MarketProject\Backend\TechZone\TechZone.Entities\bin\Debug\net8.0\TechZone.Entities.pdb
+G:\Github\MarketProject\Backend\TechZone\TechZone.Entities\obj\Debug\net8.0\TechZone.Entities.GeneratedMSBuildEditorConfig.editorconfig
+G:\Github\MarketProject\Backend\TechZone\TechZone.Entities\obj\Debug\net8.0\TechZone.Entities.AssemblyInfoInputs.cache
+G:\Github\MarketProject\Backend\TechZone\TechZone.Entities\obj\Debug\net8.0\TechZone.Entities.AssemblyInfo.cs
+G:\Github\MarketProject\Backend\TechZone\TechZone.Entities\obj\Debug\net8.0\TechZone.Entities.csproj.CoreCompileInputs.cache
+G:\Github\MarketProject\Backend\TechZone\TechZone.Entities\obj\Debug\net8.0\TechZone.Entities.sourcelink.json
+G:\Github\MarketProject\Backend\TechZone\TechZone.Entities\obj\Debug\net8.0\TechZone.Entities.dll
+G:\Github\MarketProject\Backend\TechZone\TechZone.Entities\obj\Debug\net8.0\refint\TechZone.Entities.dll
+G:\Github\MarketProject\Backend\TechZone\TechZone.Entities\obj\Debug\net8.0\TechZone.Entities.pdb
+G:\Github\MarketProject\Backend\TechZone\TechZone.Entities\obj\Debug\net8.0\ref\TechZone.Entities.dll

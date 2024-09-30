@@ -1,0 +1,16 @@
+G:\Github\MarketProject\Backend\TechZone\TechZone.DataAccess\bin\Debug\net8.0\TechZone.DataAccess.deps.json
+G:\Github\MarketProject\Backend\TechZone\TechZone.DataAccess\bin\Debug\net8.0\TechZone.DataAccess.dll
+G:\Github\MarketProject\Backend\TechZone\TechZone.DataAccess\bin\Debug\net8.0\TechZone.DataAccess.pdb
+G:\Github\MarketProject\Backend\TechZone\TechZone.DataAccess\bin\Debug\net8.0\TechZone.Entities.dll
+G:\Github\MarketProject\Backend\TechZone\TechZone.DataAccess\bin\Debug\net8.0\TechZone.Entities.pdb
+G:\Github\MarketProject\Backend\TechZone\TechZone.DataAccess\obj\Debug\net8.0\TechZone.DataAccess.csproj.AssemblyReference.cache
+G:\Github\MarketProject\Backend\TechZone\TechZone.DataAccess\obj\Debug\net8.0\TechZone.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+G:\Github\MarketProject\Backend\TechZone\TechZone.DataAccess\obj\Debug\net8.0\TechZone.DataAccess.AssemblyInfoInputs.cache
+G:\Github\MarketProject\Backend\TechZone\TechZone.DataAccess\obj\Debug\net8.0\TechZone.DataAccess.AssemblyInfo.cs
+G:\Github\MarketProject\Backend\TechZone\TechZone.DataAccess\obj\Debug\net8.0\TechZone.DataAccess.csproj.CoreCompileInputs.cache
+G:\Github\MarketProject\Backend\TechZone\TechZone.DataAccess\obj\Debug\net8.0\TechZone.DataAccess.sourcelink.json
+G:\Github\MarketProject\Backend\TechZone\TechZone.DataAccess\obj\Debug\net8.0\TechZone.92546B16.Up2Date
+G:\Github\MarketProject\Backend\TechZone\TechZone.DataAccess\obj\Debug\net8.0\TechZone.DataAccess.dll
+G:\Github\MarketProject\Backend\TechZone\TechZone.DataAccess\obj\Debug\net8.0\refint\TechZone.DataAccess.dll
+G:\Github\MarketProject\Backend\TechZone\TechZone.DataAccess\obj\Debug\net8.0\TechZone.DataAccess.pdb
+G:\Github\MarketProject\Backend\TechZone\TechZone.DataAccess\obj\Debug\net8.0\ref\TechZone.DataAccess.dll
