@@ -8,20 +8,9 @@ namespace TechZone.DataAccess.Concrete.Context;
 
 public class TechZoneAPIContext : DbContext
 {
- public TechZoneAPIContext(DbContextOptions<TechZoneAPIContext>options) : base(options)
-{
-    
-}
-
-public TechZoneAPIContext()
-{
-
-}
-
-    protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+    public TechZoneAPIContext(DbContextOptions<TechZoneAPIContext> options) : base(options)
     {
-        string connString= "Data Source=DESKTOP-KCPF1T6\\SQLEXPRESS; Initial Catalog = TechZoneAPIDb; Integrated Security = True";
-        optionsBuilder.UseSqlServer(connString);
+
     }
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)

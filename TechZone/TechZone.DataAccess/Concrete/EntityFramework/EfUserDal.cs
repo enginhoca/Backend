@@ -5,7 +5,9 @@ using TechZone.Entities.Concrete;
 
 namespace TechZone.DataAccess.Concrete.EntityFramework;
 
-public class EfUserDal : EfBaseRepository<User,TechZoneAPIContext>, IUserDal
+public class EfUserDal : EfBaseRepository<User, TechZoneAPIContext>, IUserDal
 {
-
+    public EfUserDal(TechZoneAPIContext context) : base(context)
+    {
+    }
 }

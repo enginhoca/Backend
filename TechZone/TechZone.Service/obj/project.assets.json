@@ -8,27 +8,25 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\mirac\\.nuget\\packages\\": {}
+    "/Users/enginniyazi/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Github\\MarketProject\\Backend\\TechZone\\TechZone.Service\\TechZone.Service.csproj",
+      "projectUniqueName": "/Users/enginniyazi/Documents/GitHub/Mirac/Backend/TechZone/TechZone.Service/TechZone.Service.csproj",
       "projectName": "TechZone.Service",
-      "projectPath": "G:\\Github\\MarketProject\\Backend\\TechZone\\TechZone.Service\\TechZone.Service.csproj",
-      "packagesPath": "C:\\Users\\mirac\\.nuget\\packages\\",
-      "outputPath": "G:\\Github\\MarketProject\\Backend\\TechZone\\TechZone.Service\\obj\\",
+      "projectPath": "/Users/enginniyazi/Documents/GitHub/Mirac/Backend/TechZone/TechZone.Service/TechZone.Service.csproj",
+      "packagesPath": "/Users/enginniyazi/.nuget/packages/",
+      "outputPath": "/Users/enginniyazi/Documents/GitHub/Mirac/Backend/TechZone/TechZone.Service/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\mirac\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/enginniyazi/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
+        "/usr/local/share/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -67,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

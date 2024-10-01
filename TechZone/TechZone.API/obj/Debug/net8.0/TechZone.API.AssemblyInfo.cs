@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TechZone.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1628cb206c21f2d1d280589e0c29b2b20cb9c8ab")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+65e535ab5a3987f8dc9c848df2dcddb88f973891")]
 [assembly: System.Reflection.AssemblyProductAttribute("TechZone.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TechZone.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,4 +1,5 @@
 using System;
+using System.IO.Compression;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 using TechZone.Entities.Concrete;
@@ -9,8 +10,9 @@ public class UserMap : IEntityTypeConfiguration<User>
 {
     public void Configure(EntityTypeBuilder<User> builder)
     {
-        builder.ToTable("Users",@"dbo");
+        builder.ToTable("Users");
         builder.HasKey(x => x.Id);
+        builder.Property(x => x.Id).ValueGeneratedOnAdd();
 
         builder.Property(x => x.UserName)
                .HasColumnName("UserName")
@@ -32,8 +34,8 @@ public class UserMap : IEntityTypeConfiguration<User>
             .HasMaxLength(30)
             .IsRequired();
 
-        builder.Property(x => x.gender)
-       .HasColumnName("gender")
+        builder.Property(x => x.Gender)
+       .HasColumnName("Gender")
        .IsRequired();
 
         builder.Property(x => x.DateOfBirth)
@@ -47,9 +49,9 @@ public class UserMap : IEntityTypeConfiguration<User>
             Id =1,
             FirstName = "Mirac",
             LastName = "Yenice",
-            gender = true,
+            Gender = true,
             Password = "1357911a",
-            DateOfBirth = Convert.ToDateTime("01-04-2000"),
+            DateOfBirth = Convert.ToDateTime("2000-04-01"),
             CreatedDate = DateTime.Now,
             Adress = "Istanbul",
             CreatedUserId = 1,

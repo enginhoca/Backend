@@ -8,6 +8,6 @@ namespace TechZone.Entities.Concrete.BaseEntity
 {
     public class BaseEntity : IEntity
     {
-        public int Id { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
+        public int Id { get; set; }
     }
 }
